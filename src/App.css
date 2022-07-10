@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  color: #524f4e;
+  font-weight: 700;
+}
+th{
+  color: white;
+  padding: 8px;
+  background-color: #524f4e;
+}
+td{
+  padding: 10px;
+}
+.nav_bar{
+  background-color: #949392;
+  margin: -10px;
+  
+}
+.search-box{
+  border-radius: 12px;
+}
+
+.song_section{
+  color: #949392;
+  margin: 12px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.content_list{
+  margin: 12px;
+}
+
+.artist_section{
+  color: #949392;
+  margin: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
